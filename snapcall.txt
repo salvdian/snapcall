@@ -1,0 +1,20 @@
+[CATEGORIES]Emergency|Taxis|Fast Food Delivery|Telco
+[Emergency]Emergency Ambulance & Fire:|995
+[Emergency]Non-Emergency Ambulance:|1777
+[Emergency]Police Emergency:|999
+[Emergency]Police Hotline:|1800 255 0000
+[Emergency]Dengue Hotline:|1800 933 6483
+[Taxis]Taxi Lost & Found|1800 225 5582
+[Taxis]Comfort Taxi|6552 1111
+[Taxis]CityCab|6552 1111
+[Fast Food Delivery]McDonald's|6777 3777
+[Fast Food Delivery]KFC|6222 6111
+[Fast Food Delivery]Pizza Hut|6235 3535
+[Fast Food Delivery]Dominos Pizza|6222 6333
+[Fast Food Delivery]Canadian Pizza|6241 0241
+[Telco]Singtel|1688
+[Telco]Starhub|1633
+[Telco]M1|1622
+
+
+
