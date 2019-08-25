@@ -1,4 +1,3 @@
-[CATEGORIES]Emergency|Taxis|Fast Food Delivery|Telco
 [Emergency]Emergency Ambulance & Fire:|995
 [Emergency]Non-Emergency Ambulance:|1777
 [Emergency]Police Emergency:|999
